@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "email": "siu@example.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": "Gorra",
+      "stock": 10,
+      "price": 399.99,
+      "shortDesc": "",
+      "description": ""
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": "mochila",
+      "stock": 45,
+      "price": 499.99,
+      "shortDesc": "",
+      "description": ""
+    },
+    {
+      "id": "aoe8wvdxvrkfqsew67",
+      "name": "Tenis",
+      "stock": 15,
+      "price": 149.99,
+      "shortDesc": "Tenis",
+      "description": "Tenis Color Gris Nike"
+    },
+    {
+      "id": "bmfrurdkswtkfqsf15j",
+      "name": "Chamarra",
+      "stock": 10,
+      "price": 102.99,
+      "shortDesc": "Chamarra",
+      "description": "Chamarra negra Talla L "
+    }
+    ,
+    {
+      "id": "bmfrurddfe43ej",
+      "name": "Bebida Energetica",
+      "stock": 10,
+      "price": 1,
+      "shortDesc": "Bebida Energetica",
+      "description": "Bebida Energetica sabor Mora Azul 600ml"
+    }
+  ]
+}
